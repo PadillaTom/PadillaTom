@@ -4,9 +4,17 @@ Here begins my Journey into becoming a Self-Taught Web Developer.
 I am starting with the Front-End, beign HTML and CSS my first course.
 You will see my progress and practices.
 
-- 📫 How to reach me: ...
-- 🔭 I’m currently working on **FrontEndJourney-DOM-Projects**
+## Connect with me:
 
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/padillatom/
+<br />
+<br />
 ### Roadmap
 **1) FrontEndJourney-HTML-CSS:** Here i started my journey, learning the basics. With some theory and practical exercices i've got to my second stage!\
 **2) Through **P1** to **P6**:** You will find all my Website Projects.\
