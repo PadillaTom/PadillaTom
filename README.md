@@ -21,7 +21,7 @@ Fom P1 to P3 I will apply all the knowledge with some design.\
 From P4 to P6 I am just practicing the Flexbox and Grid Layouts, without paying much attention to design.\
 **3)FrontEndJourney-JS:** Once again I am happy to continue my studies with John Smilga!\
 This time with JavaScript. Starting with the Basics then applying them into the DOM.\
-**4)FrontEndJourney-DOM-Projects:** Currently Working on it.
+**4)FrontEndJourney-DOM-Projects:** Most important --> Traversing the DOM / Selectors inside and Element / To-do App / Image Carousel / NavBar and SideBar.\
 **5)FrontEndJourney-JS:** Once done with DOM Projects, I continue with OBJECTS.
 
 
