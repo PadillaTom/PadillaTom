@@ -22,6 +22,7 @@ From P4 to P6 I am just practicing the Flexbox and Grid Layouts, without paying 
 **3)FrontEndJourney-JS:** Once again I am happy to continue my studies with John Smilga!\
 This time with JavaScript. Starting with the Basics then applying them into the DOM.\
 **4)FrontEndJourney-DOM-Projects:** Currently Working on it.
+**5)FrontEndJourney-JS:** Once done with DOM Projects, I continue with OBJECTS.
 
 
 <!--
