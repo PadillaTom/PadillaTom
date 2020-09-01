@@ -28,7 +28,7 @@ This time with JavaScript. Starting with the Basics then applying them into the 
 **4) FrontEndJourney-DOM-Projects:** Most important --> Traversing the DOM / Selectors inside and Element / To-do App / Image Carousel / NavBar and SideBar.\
 **5) FrontEndJourney-JS:** Once done with DOM Projects, I continue with the rest of the course (starting from Objects).\
 **6) P1Js-Store:** Final Project of Javascript course. An e-commerce styled website, fully functional.\
-**7) React: ** In Course.
+**7) React:** In Course.
 
 <!--
 **PadillaTom/PadillaTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
