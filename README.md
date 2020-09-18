@@ -5,7 +5,7 @@ I am starting with the Front-End, beign HTML and CSS my first course.
 You will see my progress and practices.
 
 #### Technologies:
-![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-React-Cyan)
+![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-React-Cyan) ![](https://img.shields.io/badge/-Gatsby-Purple)
 #### Tools:
 ![](https://img.shields.io/badge/-Git-Red) 
 ### Connect with me:
