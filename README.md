@@ -4,10 +4,9 @@ Here begins my Journey into becoming a Self-Taught Web Developer.
 I am starting with the Front-End, beign HTML and CSS my first course.
 You will see my progress and practices.
 
-#### Technologies:
-![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-React-Cyan) ![](https://img.shields.io/badge/-Gatsby-Purple)
-#### Tools:
-![](https://img.shields.io/badge/-Git-Red) 
+#### Technologies & Tools:
+![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-SASS-Purple) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-jQuery-Purple) ![](https://img.shields.io/badge/-React-Cyan) ![](https://img.shields.io/badge/-Gatsby-Purple) 
+![](https://img.shields.io/badge/-Git-Red) ![](https://img.shields.io/badge/-NPM-Purple)  ![](https://img.shields.io/badge/-NodeJS-Purple) ![](https://img.shields.io/badge/-MongoDb-Purple)
 ### Connect with me:
 <!--
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
