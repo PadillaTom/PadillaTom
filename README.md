@@ -30,9 +30,11 @@ This time with JavaScript. Starting with the Basics then applying them into the 
 **4) FrontEndJourney-DOM-Projects:** Most important --> Traversing the DOM / Selectors inside and Element / To-do App / Image Carousel / NavBar and SideBar.\
 **5) FrontEndJourney-JS:** Once done with DOM Projects, I continue with the rest of the course (starting from Objects).\
 **6) P1Js-Store:** Final Project of Javascript course. An e-commerce styled website, fully functional.\
-**7) React:** Complete course on React including --> Context API, Styled Components, Redux and best practices
-**8) Gatsby:** Course on Gatsby --> GraphQL, MDX, AirTable, etc.
-**9) Node JS:** Basics of Node Js and Mongo DB.
+**7) React:** Complete course on React including --> Context API, Styled Components, Redux and best practices \
+**8) jQuery:** Course on jQuery with an API project.\
+**9) SASS:** Learnt how to use Sass, best practices and responsiveness. \
+**10) Gatsby:** Course on Gatsby --> GraphQL, MDX, AirTable, etc. \
+**11) Node JS:** Basics of Node Js and Mongo DB. \
 
 
 <!--
