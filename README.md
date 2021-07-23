@@ -5,8 +5,8 @@ I am starting with the Front-End, beign HTML and CSS my first course.
 You will see my progress and practices.
 
 #### Technologies & Tools:
-![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-SASS-Purple) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-jQuery-Purple) ![](https://img.shields.io/badge/-React-Cyan) ![](https://img.shields.io/badge/-Gatsby-Purple) 
-![](https://img.shields.io/badge/-Git-Red) ![](https://img.shields.io/badge/-NPM-Purple)  ![](https://img.shields.io/badge/-Java-Orange) ![](https://img.shields.io/badge/-SpringBoot-Orange) ![](https://img.shields.io/badge/-MySQL-Orange) ![](https://img.shields.io/badge/-MongoDb-Purple)
+![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-SASS-Purple) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-React-Cyan) ![](https://img.shields.io/badge/-React%20Native-Cyan) 
+![](https://img.shields.io/badge/-Git-Red) ![](https://img.shields.io/badge/-NPM-Purple)  ![](https://img.shields.io/badge/-Java-Orange) ![](https://img.shields.io/badge/-Spring%20Boot-Orange) ![](https://img.shields.io/badge/-MySQL-Orange) 
 ### Connect with me:
 <!--
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,10 +24,9 @@ You will see my progress and practices.
 **2) Javascript:** Once again I am happy to continue my studies with John Smilga!\
 This time with JavaScript. Starting with the Basics then applying them into the DOM.\
 **3) React:** Complete course on React including --> Context API, Styled Components, Redux and best practices \
-**4) jQuery:** Course on jQuery with an API project.\
-**5) SASS:** Learnt how to use Sass, best practices and responsiveness. \
-**6) Gatsby:** Course on Gatsby --> GraphQL, MDX, AirTable, etc. \
-**7) Java:** Currently Working on. \
+**4) SASS:** Learnt how to use Sass, best practices and responsiveness. \
+**4) React Native:**  On course... \
+**7) Java:** Polotic's Fullstack Web Development with Java course. Currently working on my Final Project. \
 **8) Spring and Spring Boot:** Currently Working on. 
 
 
