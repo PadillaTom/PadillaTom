@@ -4,17 +4,19 @@ Here begins my Journey into becoming a Self-Taught Web Developer.
 I am starting with the Front-End, beign HTML and CSS my first course.
 You will see my progress and practices!
 
+### Connect with me:
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/padillatom)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/padillatom/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:contact@padillatomas.com)
+
 #### Technologies & Tools:
 ![](https://img.shields.io/badge/-HTML5-Orange) ![](https://img.shields.io/badge/-CSS3-Blue) ![](https://img.shields.io/badge/-SASS-Purple) ![](https://img.shields.io/badge/-Styled%20Components-Purple) ![](https://img.shields.io/badge/-Javascript-Yellow) ![](https://img.shields.io/badge/-React-Cyan) 
 ![](https://img.shields.io/badge/-Git-Red) ![](https://img.shields.io/badge/-NPM-Purple)  ![](https://img.shields.io/badge/-Java-Orange) ![](https://img.shields.io/badge/-Spring%20Boot-Orange) ![](https://img.shields.io/badge/-MySQL-Orange) ![](https://img.shields.io/badge/-PostgreSQL-Orange) ![](https://img.shields.io/badge/-Maven-Orange) ![](https://img.shields.io/badge/-Gradle-Orange) 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[linkedin]: https://www.linkedin.com/in/padillatom/
-[website]: https://www.padillatomas.com/
-<br />
-<br />
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=padillatom&theme=dark&show_icons=true)](https://github.com/padillatom)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padillatom&theme=dark&hide=TeX&layout=compact)
+
+
 ## Roadmap
 **1) HTML - CSS:** Here i started my journey, learning the basics. With some theory and practical exercices i've got to my second stage!\
 **2) Javascript:** Once again I am happy to continue my studies with John Smilga!\
