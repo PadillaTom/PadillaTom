@@ -9,21 +9,46 @@ You will find in me a well organised, energetic, fast learner and a "team player
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/padillatom) &nbsp; 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/padillatom/) &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:contact@padillatomas.com) &nbsp; 
-</br>
+
 
 ### Technologies & Tools:
-  <img src="svg/ java.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp; 
-  <img src="svg/ springframework.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ springboot.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ docker.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ jetbrains_intellij.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ eclipse.png" alt="example badge" style="vertical-align:top margin:6px 4px">\
+  <a href=#> 
+    <img src="svg/ java.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp; 
+  </a>
+  <a href=#> 
+    <img src="svg/ springframework.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ springboot.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ docker.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ jetbrains_intellij.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ eclipse.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  </br>
+  <a href=#> 
+    <img src="svg/ js.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ react.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ angular.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ sass.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
+  </a>
+  <a href=#> 
+    <img src="svg/ visualstudio_code.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  
 </br>
-  <img src="svg/ js.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ react.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ angular.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ sass.png" alt="example badge" style="vertical-align:top margin:6px 4px"> &nbsp;
-  <img src="svg/ visualstudio_code.png" alt="example badge" style="vertical-align:top margin:6px 4px">\
+</br>
 </br>
 
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=padillatom&theme=light&show_icons=true)](https://github.com/padillatom)\
