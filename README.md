@@ -2,7 +2,7 @@
 
 Being passionate about Design, Culture, Traveling and having a thirst for knowledge, I have always pursued my objectives with discipline and hard work.  
 Now, I am studying Cloud Native Applications and Infrastructure.
-I am ready to take the next step, my first professional experience.
+I am ready to take the next step, my first professional experience.\
 You will find in me a well organised, energetic, fast learner and a "team player" person.
 
 ### Connect with me:
