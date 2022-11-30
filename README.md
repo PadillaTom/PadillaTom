@@ -1,8 +1,8 @@
 ## Welcome to my GitHub, my name is Tomas Padilla 👋!
 
 Being passionate about Design, Culture, Traveling and having a thirst for knowledge, I have always pursued my objectives with discipline and hard work.  
-Now, I am studying Cloud Native Applications and Infrastructure.
-I am ready to take the next step, my first professional experience.\
+Now, I am studying Event-Driven applications (Kafka) and Cloud Platforms.
+
 You will find in me a well organised, energetic, fast learner and a "team player" person.
 
 ### Connect with me:
